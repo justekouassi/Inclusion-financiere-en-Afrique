@@ -2,6 +2,7 @@
 
 ## Soumissions
 
-|Dates|Heures|Développement|Production|Rang|
+|Dates|Heures|100% test set|20% test set|Rang|
 |:-|:-|:-|:-|:-|
 |23/02/2023|05h38|0.111772205|0.113027959|38|
+|27/02/2023|00h24|0.109222269|0.111639896|30|
